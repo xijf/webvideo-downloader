@@ -62,16 +62,16 @@
 直接下载压缩包，或使用 git clone：
 
 ```
-git clone https://github.com/jaysonlong/webvideo-downloader.git
+git clone https://github.com/xijf/webvideo-downloader.git
 ```
 
 ##### *安装项目*
 
 浏览器安装以下基于 Violentmonkey/Tampermonkey 的脚本。直接点击以下链接即可安装：
 
-- [WebVideoDownloader 脚本](https://github.com/jaysonlong/webvideo-downloader/raw/master/violentmonkey/WebVideoDownloader.user.js)（主脚本，支持6个主流网站视频下载）
+- [WebVideoDownloader 脚本](https://github.com/xijf/webvideo-downloader/raw/master/violentmonkey/WebVideoDownloader.user.js)（主脚本，支持6个主流网站视频下载）
 
-- [CommonHlsDownloader 脚本](https://github.com/jaysonlong/webvideo-downloader/raw/master/violentmonkey/CommonHlsDownloader.user.js)（通用 HLS 下载脚本，按需安装，作用于除以上6个主流网站以外的使用 HLS 的网站）
+- [CommonHlsDownloader 脚本](https://github.com/xijf/webvideo-downloader/raw/master/violentmonkey/CommonHlsDownloader.user.js)（通用 HLS 下载脚本，按需安装，作用于除以上6个主流网站以外的使用 HLS 的网站）
 
 安装 python 依赖包：
 
