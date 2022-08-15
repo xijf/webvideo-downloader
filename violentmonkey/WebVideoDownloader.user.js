@@ -15,8 +15,8 @@
 // @match *://wetv.vip/*
 // @match *://www.mgtv.com/b/*
 // @require https://unpkg.com/ajax-hook@2.0.0/dist/ajaxhook.min.js
-// @require https://cdn.bootcdn.net/ajax/libs/draggabilly/2.3.0/draggabilly.pkgd.min.js
-// @resource sweetalert2 https://cdn.bootcdn.net/ajax/libs/limonte-sweetalert2/8.11.8/sweetalert2.all.min.js
+// @require https://get.cdnpkg.com/draggabilly/2.3.0/draggabilly.pkgd.min.js
+// @resource sweetalert2 https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/8.11.8/sweetalert2.all.min.js
 // @run-at document-start
 // @grant GM_xmlhttpRequest
 // @grant GM_getResourceText
