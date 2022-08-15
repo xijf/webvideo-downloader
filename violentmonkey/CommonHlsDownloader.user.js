@@ -12,8 +12,8 @@
 // @grant GM_getResourceText
 // @grant GM_getResourceURL
 // @inject-into page
-// @downloadURL https://github.com/jaysonlong/webvideo-downloader/raw/master/violentmonkey/CommonHlsDownloader.user.js
-// @homepageURL https://github.com/jaysonlong/webvideo-downloader
+// @downloadURL https://github.com/xijf/webvideo-downloader/raw/master/violentmonkey/CommonHlsDownloader.user.js
+// @homepageURL https://github.com/xijf/webvideo-downloader
 // ==/UserScript==
 
 
